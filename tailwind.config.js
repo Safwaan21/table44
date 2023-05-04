@@ -12,6 +12,17 @@ module.exports = {
         'gradient-conic':
           'conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))',
       },
+      fontFamily: {
+        sans: ['AirbnbCereal', 'sans-serif'],
+      },
+      fontWeight: {
+        '300': 300,
+        '400': 400,
+        '500': 500,
+        '700': 700,
+        '800': 800,
+        '900': 900
+      },
     },
   },
   plugins: [],
