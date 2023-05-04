@@ -8,7 +8,7 @@
   --background-end-rgb: 0, 0, 0;
 }
 
-@font-face {
+/* @font-face {
   font-family: 'AirbnbCereal';
   src: url('../../public/AirbnbCereal_W_Bd.otf') format('otf');
   font-weight: 700;
@@ -54,7 +54,7 @@
   font-weight: 800;
   font-style: normal;
   font-display: swap;
-}
+} */
 
 body {
   color: rgb(var(--foreground-rgb));
